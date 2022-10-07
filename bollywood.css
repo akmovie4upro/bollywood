@@ -1,0 +1,22 @@
+
+.navbar-brand img{
+  border-radius: 50%;
+}
+
+.dropdown-item{
+  color: white;
+}
+.carousel-item{
+  height: 50vw;
+}
+
+.carousel-item img{
+  display: block;
+  
+  
+}
+
+.card-body{
+  height:250px;
+}
+
